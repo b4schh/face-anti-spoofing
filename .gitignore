@@ -1,2 +1,8 @@
 photo/
 photo2/
+cv_env/
+dataset/
+dataset_processed/
+checkpoint/
+*.pth
+*.pt
